@@ -17,6 +17,8 @@ build/
 .venv/
 env/
 venv/
+.idea/
+idea/
 ENV/
 env.bak/
 venv.bak/
